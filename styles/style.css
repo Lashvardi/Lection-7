@@ -1,0 +1,33 @@
+@font-face {
+    /* განსაზღვრავს ფონტის სახელს, შემიძლია დავარქვა ნებისმიერი რამ მაგალითად:VASHLI */
+    font-family: "VASHLI";
+    src: url('./fonts/bpg_nino_mtavruli_bold.ttf');
+}
+
+@font-face {
+    font-family: "MONTSERAT";
+    src: url('./fonts/Montserrat-Bold.ttf');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "MONTSERAT";
+    src: url('./fonts/Montserrat-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "MONTSERAT";
+    src: url('./fonts/Montserrat-Thin.ttf');
+    font-weight: 200;
+}
+
+h1{
+    font-family: "MONTSERAT";
+    font-weight: 800;
+}
+
+.mymarket{
+    width: 100%;
+    height: 100vh;
+}
